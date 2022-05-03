@@ -1,1 +1,4 @@
-
+<title>Issue QA-1</title>
+<summary>The token is not accepted by GIT after providing it via Git Bash</summary>
+<str>Step1, Step2, Step3</str>
+<expected_result>The token is accepted after copy-pasting it from Git</expected_result>
